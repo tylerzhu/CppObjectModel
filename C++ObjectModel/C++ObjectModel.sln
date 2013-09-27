@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++ObjectModel", "C++ObjectModel\C++ObjectModel.vcxproj", "{144AAB11-D638-49D7-9F2D-FF4BF7E12616}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ModelInterpret", "ModelInterpret\ModelInterpret.vcxproj", "{C4DEFAB6-9FA8-4EB1-AE33-B0F6EF86C4E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{144AAB11-D638-49D7-9F2D-FF4BF7E12616}.Debug|Win32.ActiveCfg = Debug|Win32
+		{144AAB11-D638-49D7-9F2D-FF4BF7E12616}.Debug|Win32.Build.0 = Debug|Win32
+		{144AAB11-D638-49D7-9F2D-FF4BF7E12616}.Release|Win32.ActiveCfg = Release|Win32
+		{144AAB11-D638-49D7-9F2D-FF4BF7E12616}.Release|Win32.Build.0 = Release|Win32
+		{C4DEFAB6-9FA8-4EB1-AE33-B0F6EF86C4E0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C4DEFAB6-9FA8-4EB1-AE33-B0F6EF86C4E0}.Debug|Win32.Build.0 = Debug|Win32
+		{C4DEFAB6-9FA8-4EB1-AE33-B0F6EF86C4E0}.Release|Win32.ActiveCfg = Release|Win32
+		{C4DEFAB6-9FA8-4EB1-AE33-B0F6EF86C4E0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
